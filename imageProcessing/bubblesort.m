@@ -24,7 +24,7 @@ if (nargin == 1)
             end
         end
     end
-
+%%
 % If sorting an input array and a parallel array.
 elseif (nargin == 2)
     while swapped == 1
